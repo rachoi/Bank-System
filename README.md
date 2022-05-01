@@ -7,8 +7,8 @@ Display transactions for a given user\
 
 DEMO:\
 Login and register pages\
-![alt text](https://i.ibb.co/W5PGvbN/Screen-Shot-2022-04-21-at-4-12-55-PM.png)
-![alt text](https://i.ibb.co/G25LvZV/Screen-Shot-2022-04-21-at-4-13-06-PM.png)
+![alt text](https://i.ibb.co/m6dPPLD/d.png)
+![alt text](https://i.ibb.co/5vkTvW4/g.png)
 Dashboard page after you log in\
 ![alt text](https://i.ibb.co/v4XmQgD/unknown.png)
 Transfer, Deposit, Withdraw funds\
