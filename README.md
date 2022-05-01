@@ -3,7 +3,7 @@ COMPLETED:\
 Create user\
 Login for a user\
 Transfer, deposit, withdraw funds from user\
-Display transactions for a given user\
+Display transactions for a given user
 
 DEMO:\
 Login and register pages\
